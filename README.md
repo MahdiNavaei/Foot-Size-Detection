@@ -25,9 +25,6 @@ python foot_size_detection.py
 
 The code will display the foot image with a bounding rectangle around the detected foot and print the foot size in pixels to the console.
 
-## License
-This project is licensed under the MIT License - see the ## LICENSE ## file for details.
-
 ## Acknowledgements
 This project was inspired by the tutorial on PyImageSearch and uses some code from that tutorial.
 
